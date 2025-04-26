@@ -1,16 +1,19 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0",
-	"FriendlyName": "ALS_Replicated",
-	"Description": "",
-	"Category": "Other",
-	"CreatedBy": "",
-	"CreatedByURL": "",
-	"DocsURL": "",
+	"VersionName": "5.5.0",
+	"FriendlyName": "Advanced Locomotion System Replicated",
+	"Description": "Replicated Blueprint (Multiplayer) version of LongmireLocomotion's Advanced Locomotion System V4",
+	"Category": "Animation",
+	"CreatedBy": "Hugo",
+	"CreatedByURL": "https://github.com/EasyUnrealEngine",
+	"DocsURL": "https://github.com/EasyUnrealEngine/ALSV4Replicated",
 	"MarketplaceURL": "",
-	"SupportURL": "",
+	"SupportURL": "https://github.com/EasyUnrealEngine/ALSV4Replicated/issues",
 	"EngineVersion": "5.5.0",
+	"EnabledByDefault": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
 	"CanContainContent": true,
-	"Installed": true
+	"Installed": false
 }
