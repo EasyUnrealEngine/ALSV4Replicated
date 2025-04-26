@@ -20,17 +20,13 @@ This Plugin has been recompiled from version 5.3 to 5.5 (just recompilation, no 
 
 Original 5.3 version:
 
-<p align="center">
-  <a href="https://github.com/Cesio137/ALS_Replicated"></a>
-</p>
+https://github.com/Cesio137/ALS_Replicated
 
 ## Are you looking for the C++ version?
 
 C++ version:
 
-<p align="center">
-  <a href="https://github.com/ShadowfallStudios/ALS-Community"></a>
-</p>
+https://github.com/ShadowfallStudios/ALS-Community
 
 ### Bug Reporting Template:
 
