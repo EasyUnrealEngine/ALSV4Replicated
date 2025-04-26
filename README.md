@@ -50,7 +50,7 @@ A description of what actually happens.
 
 - Clone the repository or download the latest release.
 
-- Move `ALS_Replicated` folder into your project's `Plugins` folder
+- Move `ALSV4Replicated` folder into your project's `Plugins` folder
 
 - Add the lines below into your `DefaultEngine.ini`, below `[/Script/Engine.CollisionProfile]` tag (Create the tag if it doesn't exist):
   
