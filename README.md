@@ -1,4 +1,4 @@
-# ALS_Replicated UE 5.5 | Blueprint Version | You can use it in both C++ and Blueprint projects.
+# ALS_Replicated UE 5.6 | Blueprint Version | You can use it in both C++ and Blueprint projects.
 
 This is a community-based effort to fully and effectively replicate Advanced Locomotion System v4 which is permanently free on the Epic Marketplace. 
 
@@ -16,11 +16,7 @@ The primary objective of this ALS version is to modify the structure for greater
 
 ## What is that?
 
-This Plugin has been recompiled from version 5.3 to 5.5 (just recompilation, no modifications to the plugin or project structure) and will continue to receive recompilation.
-
-Original 5.3 version:
-
-https://github.com/Cesio137/ALS_Replicated
+This Plugin has been recompiled from version 5.3 to 5.6 (just recompilation, no modifications to the plugin or project structure) and will continue to receive recompilation.
 
 ## Are you looking for the C++ version?
 
